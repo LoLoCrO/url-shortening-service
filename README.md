@@ -65,7 +65,7 @@ response:
 }
 ```
 
-Get access count via `shot_code`:
+Get access count via `short_code`:
 ```bash
     curl --location --request GET 'localhost:3000/shorten/BqIyCc/stat' \
     --header 'Content-Type: application/json' \
