@@ -1,0 +1,22 @@
+{
+  "name": "url-shortening-service",
+  "version": "1.0.0",
+  "description": "URL Shortening Service example",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com-lolocro:LoLoCrO/url-shortening-service.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2",
+    "nanoid": "^5.0.9",
+    "pg": "^8.13.1"
+  }
+}
